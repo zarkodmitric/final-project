@@ -1,0 +1,13 @@
+#header {
+    background-color: #fbf1e9;
+    border-bottom: 5px solid rgba(0, 0, 0, 0.3);
+}
+
+.icon {
+    height: 36px;
+    width: 36px;
+}
+
+.search-input {
+    font-size: 18px;
+}

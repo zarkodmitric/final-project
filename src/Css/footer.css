@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+#footer {
+    background-color: #faf8f8;
+    padding-bottom: 40px;
+}
+
+.icons > img {
+    width: 40px;
+    height: 40px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-evenly;
+    width: 300px;
+    margin-right: 80px;
+}
+
+.fotter-b {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.title {
+    margin-left: 80px;
+}
+
+.naslov {
+    height: 250px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.naslov > h3 {
+    color: gray;
+    font-size: 1.8em;
+    margin-bottom: 30px;
+}
+
+.naslov > ul > li {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.naslov > ul {
+    padding: 0;
+    margin: 0;
+    width: 200px;
+    text-align: left;
+}
+
+.naslov > ul > li > a {
+    text-decoration: none;
+    color: grey;
+}
+
+.column-div {
+    display: flex;
+    justify-content: space-evenly;
+}
