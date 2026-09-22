@@ -83,6 +83,39 @@ During the development of this project, I practiced working with:
 * Reusable components
 * Responsive design
 
+## Screenshots
+
+
+Home Page
+<p aling="center">
+  <img src="./screenshots/home1.png" width="40%" />
+  <img src="./screenshots/home2.png" width="40%" />
+</p>
+           
+Product Details
+
+![Product Details](./screenshots/productDetails.png)
+
+Shop
+
+<p aling="center">
+  <img src="./screenshots/shop1.png" width="30%">
+  <img src="./screenshots/shop2.png" width="30%">
+  <img src="./screenshots/shop3.png" width="30%">
+</p>
+
+Shopping Cart
+
+![Shopping Cart](./screenshots/cart.png)
+
+Checkout
+
+![Checkout](./screenshots/checkout.png)
+
+Login
+
+![Login](./screenshots/login.png)
+
 ##  What I Learned
 
 Through this project, I improved my knowledge of frontend development and gained more practical experience in combining different web technologies.
