@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.background-theme {
+    background-color: #faf8f8;
+}
+
+.cart-shadow {
+    border-radius: 12px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.input-b {
+    border: 1px solid black;
+    height: 40px;
+}
+
+.white-btn {
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.check-box {
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgb(185, 183, 183);
+}
+
+#home-head {
+    background-color: #fbf1e9;
+}
+
+#home-center {
+    background-color: #faf8f8;
+}
+
+.home-bottom-img {
+    width: 50%;
+}
+.bottom-bg {
+    background-color: #e4d7cd;
+}
